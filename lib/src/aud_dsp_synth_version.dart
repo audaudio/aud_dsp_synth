@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `aud_dsp_synth` package.
-const String audDspSynthVersion = '0.0.2';
+const String audDspSynthVersion = '0.0.3';
